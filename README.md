@@ -12,7 +12,7 @@ at https://github.com/expo/expo. Thanks!
 
   ```js
   "scripts": {
-    "test": "node_modules/.bin/jest"
+    "test": "jest"
   },
   "jest": {
     "preset": "jest-expo"
